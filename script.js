@@ -79,7 +79,7 @@ continueBtn.addEventListener("click", () => {
 
         continueBtn.style.display = "none";
 
-        gif.src = "gifs/HiPanda.gif";
+        gif.src = "gifs/hipanda.gif";
 
         yesBtn.style.display = "inline-block";
         noBtn.style.display = "inline-block";
