@@ -72,7 +72,7 @@ continueBtn.addEventListener("click", () => {
     } else {
 
         question.innerText =
-            "Will you go out with me? ❤️";
+            "Maan Ja Yrr 🥺❤️";
 
         subtitle.innerText =
             "Choose carefully 🐼💕";
