@@ -282,6 +282,19 @@ yesBtn.addEventListener("click", () => {
             <h3>
                 The No Button Has Been Terminated.
             </h3>
+            <p style="
+    margin-top:30px;
+    color:#666;
+    font-size:14px;
+">
+    🐼 Crafted with ❤️ by Kripansh Pandey
+</p>
+
+<a href="https://github.com/kripanshpandey"
+   target="_blank"
+   style="color:#888;text-decoration:none;">
+   GitHub
+</a>
 
         </div>
 
