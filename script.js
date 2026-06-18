@@ -12,8 +12,7 @@ const introMessages = [
     "I wanted to ask you something...",
     "Something very important...",
     "I'm a little nervous...",
-    "Okay...",
-    "Will you go out with me? ❤️"
+    "Okay..."
 ];
 
 const noMessages = [
@@ -68,14 +67,13 @@ continueBtn.addEventListener("click", () => {
 
         if(introIndex === 4){
             gif.src = "gifs/pleading.gif";
-        }
-
-        if (introIndex === introMessages.length - 2) {
             continueBtn.innerText = "I'm Ready ➜";
         }
 
-    }
-    else {
+    } else {
+
+        question.innerText =
+            "Will you go out with me? ❤️";
 
         continueBtn.style.display = "none";
 
